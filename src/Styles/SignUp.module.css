@@ -1,0 +1,60 @@
+/* SignUp.module.css */
+
+.signUpContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('../Images/7228781.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+  }
+  
+  .signUpForm {
+    width: 30vw;
+    /* background-color: #fff; */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 15px 15px 15px rgba(38, 37, 37, 0.1);
+    text-align: center;
+    border: 3px solid rgb(14, 160, 219);
+
+  }
+  
+  .inputField {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .signUpButton {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .signUpButton:hover {
+    background-color: #0056b3;
+  }
+  @media (max-width: 768px) {
+    .signUpContainer {
+      height: 100vh; /* Allow content to determine height */
+      background-size: auto; /* Remove background size to fit content */
+    }
+  
+    .signUpForm {
+      width: 80%; /* Make the form full width on mobile */
+      border: none; /* Remove border on mobile */
+      margin-bottom: 30vh;
+    }
+  }
+  
