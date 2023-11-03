@@ -4,36 +4,36 @@
 <h1>Hosted Link <a href="https://todo-competishun-one.vercel.app/">ClickHere</a></h1>
 <h2>Folder Structure</h2> <br/>
 
-my-react-app/  <br/>
-  ├── node_modules/       // Node.js dependencies<br/>
-  ├── public/            // Static files like index.html<br/>
+TODO/  <br/>
+  ├── node_modules/      <br/>
+  ├── public/            <br/>
   │   ├── index.html<br/>
   │   ├── favicon.ico<br/>
   │   └── manifest.json<br/>
-  ├── src/               // React application source code<br/>
-  │   ├── index.js       // Entry point for your app<br/>
-  │   ├── App.js         // Main application component<br/>
-  │   ├── Images/        // Folder for images<br/>
+  ├── src/              <br/>
+  │   ├── index.js       <br/>
+  │   ├── App.js         <br/>
+  │   ├── Images/       <br/>
   │   │   ├── image1.jpg<br/>
   │   │   ├── image2.png<br/>
-  │   ├── Auth/          // Authentication related components<br/>
+  │   ├── Auth/         <br/>
   │   │   ├── AuthWrapper.jsx    <br/>
   │   │   ├── SignUp.jsx <br/>
   │   │   ├── SignIn.jsx <br/>
-  │   ├── Pages/         // Individual pages of your app <br/>
+  │   ├── Pages/        <br/>
   │   │   ├── Home.js <br/>
   │   │   <br/>
-  │   ├── Styles/        // CSS  styles <br/>
+  │   ├── Styles/       <br/>
   │   │   ├── Home.module.css <br/>
   │   │   ├── SignUp.module.css <br/>
   │   │   ├── SignIn.module.css <br/>
   │   ├── App.css                <br/>
   │   │__Index.css                    <br/>
-  │   ├── firebase.js    // Firebase configuration file <br/>
-  │   ├── TodoContextApi.js  // A context API for your todo functionality  <br/>
-  ├── package.json       // Project dependencies and scripts       <br/>
-  ├── package-lock.json  // Lock file for exact dependency versions <br/>
-  ├── README.md          // Project documentation <br/>
+  │   ├── firebase.js    <br/>
+  │   ├── TodoContextApi.js    <br/>
+  ├── package.json          <br/>
+  ├── package-lock.json   <br/>
+  ├── README.md        <br/>
 
   <hr/>
 <h2>How to SetUp:</h2>
