@@ -1,6 +1,7 @@
 <h1> TODO
 </h1>
 <hr/>
+<h1>Hosted Link <a href="">ClickHere</a></h1>
 <h2>Folder Structure</h2>
 
 my-react-app/
@@ -35,3 +36,53 @@ my-react-app/
   ├── README.md          // Project documentation
 
   <hr/>
+<h2>How to Open:</h2>
+  (1).Import the Reposeitory.
+    (2).Extract The Code
+    (3).Go to teminal and give commands mentioned below
+        (a).npm i
+        (b).npm i firebase
+        (c).npm start (to start the project);
+    (4)open "http://localhost:3000/" (wait some time to lead);
+<h1>Tech Used:</h1>
+1.React
+2.Firebase (for auth and Database);
+3.VS Code
+
+
+<h1>More info</h1>
+Assignment Description: 
+In this assignment, you will create a Todo List web application with user authentication features. Users should be able to sign up for an account, log in, and manage their tasks. Instead of a backend server and database, you can use local storage to simulate user accounts 
+Requirements: 
+1.User Authentication 
+Implement user registration (signup) and login functionality. 
+Users should be able to sign up with a username and password. 
+Users should be able to log in with their credentials. 
+Use forms for both registration and login. 
+2.Authentication State 
+Manage user authentication state using React state. 
+Implement protected routes to ensure that only authenticated users can access certain parts of the application (e.g., the todo list). 
+3.Task Management 
+Users should be able to create, edit, mark as completed, and delete tasks. Tasks should be associated with the logged-in user. 
+Tasks should persist in local storage, so they are not lost on page refresh. 
+4.Logout 
+Implement a logout button that allows users to log out of their accounts. 
+5.User Interface 
+Create an intuitive user interface with a clean design for both the authentication and todo list parts of the application. 
+Display a list of tasks, each with options to edit, mark as completed, and delete. 
+6.Error Handling 
+Provide user-friendly error messages for scenarios such as incorrect login credentials, registration errors, or failed task updates. 
+Security Considerations: 
+7.User-Specific Data 
+Ensure that each user can only see and manage their own tasks after logging in. Tasks should be associated with the user who created them.
+Bonus Features (Optional): 
+● Add due dates to tasks. 
+● Implement task prioritisation (e.g., high, medium, low). 
+● Add the ability to filter tasks by completed and active. 
+● Implement sorting by due date or priority. 
+Database Integration (Optional): 
+● If you want to take it a step further, integrate a backend server and database (e.g., Node.js with Express and MongoDB) to store user accounts and tasks securely. ● Implement API endpoints for user registration, login, and task management. 
+Submission: 
+● Submit your code via a GitHub repository that includes both the front-end React code and, if applicable, the back-end code. 
+● Provide clear instructions on how to run the application and any necessary setup for the database (if used). 
+● Include a README explaining the authentication flow and any additional security measures you implemented.
