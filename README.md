@@ -36,9 +36,11 @@ my-react-app/
   ├── README.md          // Project documentation
 
   <hr/>
-<h2>How to Open:</h2>
+<h2>How to SetUp:</h2>
   (1).Import the Reposeitory.
     (2).Extract The Code
+    (****)Go to firebase.com and create account then open authentication(email & password format) and firestore-database if you need to store data in your database(***)
+    (****)And change the firebaseConfig keys in firebase.js(****)
     (3).Go to teminal and give commands mentioned below
         (a).npm i
         (b).npm i firebase
