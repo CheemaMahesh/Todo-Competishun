@@ -22,7 +22,7 @@ my-react-app/  <br/>
   │   │   ├── SignIn.jsx <br/>
   │   ├── Pages/         // Individual pages of your app <br/>
   │   │   ├── Home.js <br/>
-  │   │   ├── About.js <br/>
+  │   │   <br/>
   │   ├── Styles/        // CSS  styles <br/>
   │   │   ├── Home.module.css <br/>
   │   │   ├── SignUp.module.css <br/>
