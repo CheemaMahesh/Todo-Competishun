@@ -52,8 +52,19 @@ my-react-app/
 
 <h1>More info</h1>
 <div>
-  <h4>Login images</h4>
+  <h4>Login image</h4>
   ![Screenshot 2023-11-03 132404](https://github.com/CheemaMahesh/Todo-Competishun/assets/124231713/afae13e1-44ec-41b0-9258-c3ecdb872bfb)
+  <img src="https://github.com/CheemaMahesh/Todo-Competishun/assets/124231713/afae13e1-44ec-41b0-9258-c3ecdb872bfb"/>
+  <br/>
+  <h4>SignUp image</h4>
+  ![Screenshot 2023-11-03 132427](https://github.com/CheemaMahesh/Todo-Competishun/assets/124231713/e2ebe6d1-f630-4be6-aab4-352f28781b7d)
+  <img src="https://github.com/CheemaMahesh/Todo-Competishun/assets/124231713/e2ebe6d1-f630-4be6-aab4-352f28781b7d"/>
+  <h4>TODO Home images</h4>
+  ![Screenshot 2023-11-03 132333](https://github.com/CheemaMahesh/Todo-Competishun/assets/124231713/a712fd5c-953e-4b5d-8014-edb37e9dcbdb)
+  ![Screenshot 2023-11-03 132305](https://github.com/CheemaMahesh/Todo-Competishun/assets/124231713/ddd85d98-0f4f-4635-85b9-8abaeb4e0f88)
+  <img src="https://github.com/CheemaMahesh/Todo-Competishun/assets/124231713/a712fd5c-953e-4b5d-8014-edb37e9dcbdb"/>
+  <img src="https://github.com/CheemaMahesh/Todo-Competishun/assets/124231713/ddd85d98-0f4f-4635-85b9-8abaeb4e0f88"/>
+
 
 </div>
 Assignment Description: 
