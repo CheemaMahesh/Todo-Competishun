@@ -1,7 +1,7 @@
 <h1> TODO
 </h1>
 <hr/>
-<h1>Hosted Link <a href="">ClickHere</a></h1>
+<h1>Hosted Link <a href="https://todo-competishun-one.vercel.app/">ClickHere</a></h1>
 <h2>Folder Structure</h2>
 
 my-react-app/
@@ -51,6 +51,11 @@ my-react-app/
 
 
 <h1>More info</h1>
+<div>
+  <h4>Login images</h4>
+  ![Screenshot 2023-11-03 132404](https://github.com/CheemaMahesh/Todo-Competishun/assets/124231713/afae13e1-44ec-41b0-9258-c3ecdb872bfb)
+
+</div>
 Assignment Description: 
 In this assignment, you will create a Todo List web application with user authentication features. Users should be able to sign up for an account, log in, and manage their tasks. Instead of a backend server and database, you can use local storage to simulate user accounts 
 Requirements: 
@@ -82,7 +87,4 @@ Bonus Features (Optional):
 ● Implement sorting by due date or priority. 
 Database Integration (Optional): 
 ● If you want to take it a step further, integrate a backend server and database (e.g., Node.js with Express and MongoDB) to store user accounts and tasks securely. ● Implement API endpoints for user registration, login, and task management. 
-Submission: 
-● Submit your code via a GitHub repository that includes both the front-end React code and, if applicable, the back-end code. 
-● Provide clear instructions on how to run the application and any necessary setup for the database (if used). 
-● Include a README explaining the authentication flow and any additional security measures you implemented.
+
